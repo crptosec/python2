@@ -1,2 +1,2 @@
 t = input("Please Enter your name:")
-print(t)
+print(t+str("   hi"))
